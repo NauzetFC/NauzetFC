@@ -1,5 +1,5 @@
 ## PRINT 'Hola Mundo' 👋
-<HR> </HR>
+<HR style="height:2px;border-width:0;color:gray;background-color:green"> </HR>
 
 Hola me llamo **_Nauzet_** y soy alumno del **PFAE LA WEB DE TIAS 3.0**
 
